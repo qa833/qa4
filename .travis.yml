@@ -1,3 +1,4 @@
 dist: focal
+group: dev
 script:
 - uname -a
